@@ -15,6 +15,22 @@
     background-image: url('~assets/img/bg.jpg');
     background-size: cover
 }
-#download{
-    background-color: #1976d3
+.download{
+    background-color: #084071;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
 }
+#about{
+    background-color: #fff
+}
+
+.laptop{
+    width: 600px;
+    
+}
+@media only screen and (max-width: 620px) {
+    .laptop{
+        width: 400px
+    }
+  }
+  
