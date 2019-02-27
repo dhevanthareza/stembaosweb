@@ -33,4 +33,13 @@
         width: 400px
     }
   }
-  
+  @media only screen and (max-width: 418px) {
+    .laptop{
+        width: 320px
+    }
+  }
+  @media only screen and (max-width: 338px) {
+    .laptop{
+        width: 270px
+    }
+  }
